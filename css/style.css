@@ -1,9 +1,20 @@
+body{
+    background-color: rgb(11, 45, 59);
+}
+
+.title{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    padding: 20px 0;
+}
+
 #box-container{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 30px;
 }
 
 .box{
@@ -12,6 +23,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.507);
-    color: white;
+    background-color: rgb(19, 137, 178);
+    font-weight: bold;
 }

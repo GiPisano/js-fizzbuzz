@@ -21,7 +21,9 @@ Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda ch
 
 
 - Scrivi un programma che stampi in console i numeri da 1 a 100 (for);
-    - se i numeri sono multipli per 15 stampi "FizzBuzz".
+    - se i numeri sono multipli di 15 stampi "FizzBuzz".
     - se i numeri sono multipli di 5 stampi "Buzz".
     - se i numeri sono multipli di 3 stami "Fizz"
     - altrimenti scrivi numero
+
+- stampa il risultato 
